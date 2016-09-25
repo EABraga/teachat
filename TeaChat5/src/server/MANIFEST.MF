@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: E.A.Braga
-Main-Class: server/ServerPluginStarter
-Class-Path: swt.jar 

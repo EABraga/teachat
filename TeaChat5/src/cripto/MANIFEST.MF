@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: E.A.Braga
-Main-Class: cripto/Teste
-Class-Path: swt.jar 
