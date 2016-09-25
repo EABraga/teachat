@@ -1,0 +1,8 @@
+15:47:59 Anônimo: asdasdadasd
+15:47:57 Anônimo: asdasdasd
+15:47:55 Anônimo: asdasdasd
+15:47:51 Anônimo: oi
+15:47:39 Anônimo: Teste
+Só mostra esta mensagem se a opção 'CRIPTO' estiver habilitada no modelo.
+Conexão acatada localhost/127.0.0.1:1500
+Bem vindo a sala de Chat
