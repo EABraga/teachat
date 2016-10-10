@@ -1,0 +1,8 @@
+16:09:14 ZZZ: asdasdad
+16:09:11 ZZZ: asdasdasd
+16:08:49 Anônimo: asdad
+16:08:47 Anônimo: dasda
+16:08:45 Anônimo: asd
+Só mostra esta mensagem se a opção 'CRIPTO' estiver habilitada no modelo.
+Conexão acatada localhost/127.0.0.1:1500
+Bem vindo a sala de Chat
