@@ -1,0 +1,5 @@
+16:09:14 ZZZ: asdasdad
+16:09:11 ZZZ: asdasdasd
+Só mostra esta mensagem se a opção 'CRIPTO' estiver habilitada no modelo.
+Conexão acatada localhost/127.0.0.1:1500
+Bem vindo a sala de Chat
